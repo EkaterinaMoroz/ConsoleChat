@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+ConsoleChat/console_chat.egg-info/PKG-INFO
+ConsoleChat/console_chat.egg-info/SOURCES.txt
+ConsoleChat/console_chat.egg-info/dependency_links.txt
+ConsoleChat/console_chat.egg-info/top_level.txt

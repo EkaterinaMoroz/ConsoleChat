@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: console-chat
+Version: 0.0.1
+Summary: A simple console chat
+Home-page: https://github.com/EkaterinaMoroz/ConsoleChat
+Author: Ekaterina Moroz
+Author-email: ekaterina-moroz99@rambler.ru
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/EkaterinaMoroz/ConsoleChat/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+
